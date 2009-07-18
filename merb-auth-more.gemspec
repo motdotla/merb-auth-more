@@ -32,6 +32,7 @@ Gem::Specification.new do |s|
      "lib/merb-auth-more/strategies/basic/basic_auth.rb",
      "lib/merb-auth-more/strategies/basic/openid.rb",
      "lib/merb-auth-more/strategies/basic/password_form.rb",
+     "merb-auth-more.gemspec",
      "test/merb-auth-more_test.rb",
      "test/test_helper.rb"
   ]
@@ -39,7 +40,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.4}
-  s.summary = %q{Temporary merb-auth-more for my purposes to use mongomapper}
+  s.summary = %q{temporary merb-auth-more for my purposes to use mongomapper}
   s.test_files = [
     "test/merb-auth-more_test.rb",
      "test/test_helper.rb"
