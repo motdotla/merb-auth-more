@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "merb-auth-more"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{temporary merb-auth-more for my purposes to use mongomapper}
     gem.email = "scott@scottmotte.com"
     gem.homepage = "http://github.com/scottmotte/merb-auth-more"
     gem.authors = ["scottmotte"]
