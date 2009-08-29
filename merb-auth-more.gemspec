@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{merb-auth-more}
-  s.version = "1.0.13"
+  s.version = "1.0.14"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["scottmotte"]
-  s.date = %q{2009-07-18}
+  s.date = %q{2009-08-28}
   s.email = %q{scott@scottmotte.com}
   s.extra_rdoc_files = [
     "LICENSE",
